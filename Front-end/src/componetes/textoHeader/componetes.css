@@ -1,0 +1,24 @@
+.opcoes {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    justify-content: space-between;
+  }
+  
+  .opcao {
+    font-size: 16px;
+  
+    height: 100%;
+    padding: 0 5px;
+    cursor: pointer;
+    min-width: 120px;
+  
+  } 
+.opcao-link {
+    text-decoration: none;
+    color: black;
+  }
+  
+  
+  

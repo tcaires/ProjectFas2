@@ -1,0 +1,35 @@
+ .loginInput {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin: 0 auto;
+     order: 1px;
+     background: rgb(180, 177, 177);
+     border: 1px solid black;
+     padding: 10px 30px;
+     border-radius: 50px;
+     margin-top: 10px;
+ }
+
+ .button3 {
+
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     background-image: rgb(180, 177, 177);
+     color: #000000;
+     border: 1px solid #000000;
+     padding: 5px 15px;
+     border-radius: 50px;
+     font-size: 16px;
+     cursor: pointer;
+     transition: background-color 0.3s, color 0.3s;
+     margin: 0 auto;
+     margin-top: 10px;
+ }
+
+ .textoButton {
+    display: flex;
+     text-decoration: none;
+     color: black;
+ }

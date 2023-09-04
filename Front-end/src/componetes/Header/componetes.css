@@ -1,0 +1,19 @@
+.App-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-image: linear-gradient(90deg, #bdccec 35%, #ffffffad);
+    padding: 100px;
+    height: 150px;
+  }
+  .App {
+      width: 100vw;
+      height: 40vh;
+      background-image: linear-gradient(90deg, #ffffffad, #bdccec 35%);
+    }
+  
+  
+  li {
+      list-style: none;
+    }
+  
